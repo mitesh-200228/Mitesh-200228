@@ -40,7 +40,8 @@ MERN stack development.
     <a href="https://express.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express.svg"
             alt="express" width="40" height="40" /> </a>          
-            
+            [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mitesh-200228)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitesh-200228&show_icons=true&theme=radical)
 
 
