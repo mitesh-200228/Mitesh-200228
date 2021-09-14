@@ -39,5 +39,5 @@ MERN stack development.
             alt="react" width="40" height="40" /> </a>
     <a href="https://express.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express.svg"
-            alt="react" width="40" height="40" /> </a>            
+            alt="express" width="40" height="40" /> </a>            
 </p>
