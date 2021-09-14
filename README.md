@@ -6,7 +6,7 @@ MERN stack development.
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/mitesh-200228/](https://github.com/mitesh-200228/)
-[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]()
+[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
 - 📫 How to reach me, drop an email at **miteshbediya1999@gmail.com**
 
 
