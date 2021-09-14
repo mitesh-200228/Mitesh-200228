@@ -41,7 +41,7 @@ MERN stack development.
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express.svg"
             alt="express" width="40" height="40" /> </a>          
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mitesh200228)](https://github.com/anuraghazra/github-readme-stats&v=2)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mitesh200228)&v=2](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitesh-200228&show_icons=true&theme=radical)
 
