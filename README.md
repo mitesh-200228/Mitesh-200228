@@ -37,9 +37,9 @@
   <a href="https://react.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a> 
-  <a href="https://typescript.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original-wordmark.svg"
-            alt="typescript" width="40" height="40" /> </a> 
+  <a href="https://Typescript.org" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Typescript/Typescript-original-wordmark.svg"
+            alt="Typescript" width="40" height="40" /> </a> 
   
     
 </p>
