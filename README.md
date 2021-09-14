@@ -46,8 +46,8 @@
 
 [![Mitesh Bediya's github stats](https://github-readme-stats.vercel.app/api?username=mitesh-200228&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Mitesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mitesh200228)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitesh-200228&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitesh-200228&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Mitesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mitesh200228)](https://github.com/anuraghazra/github-readme-stats)
 
 
