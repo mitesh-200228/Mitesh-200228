@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitesh Bediya</h1>
 <h3 align="center">A passionate software developer from IIT Madras, India</h3>
 
-- 🌱 I am a full stack web developer (backend node.js & frontend react.js), do development in C++ also using openCV, interested in competitive programming.
+- 🌱 I am a full stack web developer (backend node.js & frontend react.js), interested in competitive programming and MERN stack development.
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/mitesh-200228/](https://github.com/mitesh-200228/)
