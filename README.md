@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mitesh Bediya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Flutter Project**
+- 🔭 I’m currently working on **ML Project**
 
-- 🌱 I’m currently learning **Neo4j , Data Science , Flutter**
+- 🌱 I’m currently learning **BlockChain Development , Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mitesh-200228](https://github.com/mitesh-200228)
 
