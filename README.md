@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **miteshbediya1999@gmail.com**
 
-- ⚡ Fun fact **I think , i ain't like DP , Dependent on others**
+- ⚡ Fun fact **I think , i ain't like DP(Dynamic Programming) , Dependent on others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
