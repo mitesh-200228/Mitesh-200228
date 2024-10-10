@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ML Project**
 
-- 🌱 I’m currently learning **BlockChain Development , Data Science**
+- 🌱 I’m currently doing **BlockChain Development , Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mitesh-200228](https://github.com/mitesh-200228)
 
